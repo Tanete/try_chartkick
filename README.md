@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Gem [chartkick](http://chartkick.com/), pretty elegant! 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![sporters_top_by_age](https://raw.githubusercontent.com/Tanete/try_chartkick/master/public/fig_sporters_top_by_age.png)
+![competitions_by_year](https://raw.githubusercontent.com/Tanete/try_chartkick/master/public/fig_competitions_by_year.png)
